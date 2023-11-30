@@ -1,1 +1,1 @@
-# recipe
+# Test project with recipes
